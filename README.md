@@ -139,14 +139,18 @@ yarn -v
 
 ### Yarn による環境設定の実行
 
+`ios-station`ディレクトリ内で
+
 ```shell
 yarn install
 ```
 
+を実行してください。
+
 こちらでTechTrainのログインを求められますので、メールアドレスとパスワードを入れてログインしましょう。
 GitHubでサインアップした方は、[こちら](https://techbowl.co.jp/techtrain/resetpassword)からパスワードの再発行より、パスワードを発行して、そのパスワードでログインしてください。
 
-Station の問題は、[TechTrain の画面](https://techbowl.co.jp/techtrain/mypage/railway/4)で確認してください。
+Stationの問題は、[TechTrainの画面](https://techbowl.co.jp/techtrain/mypage/railway/4)で確認してください。
 
 ## 自分のリポジトリの状態を最新の TechBowl-japan/ios-stations と合わせる
 
