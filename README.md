@@ -148,9 +148,9 @@ yarn install
 を実行してください。
 
 こちらでTechTrainのログインを求められますので、メールアドレスとパスワードを入れてログインしましょう。
-GitHubでサインアップした方は、[こちら](https://techbowl.co.jp/techtrain/resetpassword)からパスワードの再発行より、パスワードを発行して、そのパスワードでログインしてください。
+GitHubでサインアップした方は、[こちら](https://techtrain.dev/resetpassword)からパスワードの再発行より、パスワードを発行して、そのパスワードでログインしてください。
 
-Stationの問題は、[TechTrainの画面](https://techbowl.co.jp/techtrain/mypage/railway/4)で確認してください。
+Stationの問題は、[TechTrainの画面](https://techtrain.dev/mypage/railway/4)で確認してください。
 
 ## 自分のリポジトリの状態を最新の TechBowl-japan/ios-stations と合わせる
 
